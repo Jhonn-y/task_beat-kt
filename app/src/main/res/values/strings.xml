@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">TaskBeats</string>
     <string name="home_title">Task Beat</string>
+    <string name="create_task_title">Create Task</string>
+    <string name="update_task_title">Update Task</string>
+    <string name="warning_info">Warning!</string>
+    <string name="btn_create">create</string>
+    <string name="btn_update">update</string>
+    <string name="btn_delete">delete</string>
+    <string name="info_dialog">If you delete this category, all tasks linked to it will be deleted too, are you sure?</string>
+    <string name="empty_title">No categories Found!</string>
+    <string name="empty_desc">Please add a category</string>
+
 </resources>
